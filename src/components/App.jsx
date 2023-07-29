@@ -1,10 +1,11 @@
-import Cards from './card.jsx'
-
-
-
+import Cards from './card.jsx';
+import Header from './header.jsx';
 
 export const App = () => {
   return (
-    <Cards/>
+    <>
+      <Header />
+      <Cards />
+    </>
   );
 };
