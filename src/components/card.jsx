@@ -1,11 +1,12 @@
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import data from './foto.json';
+import Test from './test';
 
 // const Test = (props) => { 
-const Test = ({clas, id}) => { 
-    return <p id={id} clasname={clas}>Test 1</p>
-}
+// const Test = ({clas, id}) => { 
+//     return <p id={id} clasname={clas}>Test 1</p>
+// }
 
 
 
